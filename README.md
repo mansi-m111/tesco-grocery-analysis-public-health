@@ -78,3 +78,14 @@ This case study was completed as part of the **Applied Data Science MSc module**
   - Organic and premium foods (e.g., grains, bottled water)
   - Quality proteins (e.g., fish and poultry)
 - Negative correlation between income and purchase of dairy/wine/fruit in some areas — indicating emerging preferences for plant-based or alternative diets
+
+---
+
+## 📎 Supporting Materials
+
+Additional resources that demonstrate communication and documentation best practices:
+
+- 📄 [Executive Summary (PDF)](docs/CM50266_TescoDataAnalysis.pdf): Concise summary of objectives, insights, and conclusions.
+- 🎤 [Presentation Slides (PDF)](docs/CM50266_Presentation.pdf): Stakeholder-facing presentation outlining key findings and public health implications.
+
+These materials offer context for the analysis and showcase how results were communicated clearly for both technical and non-technical audiences.
