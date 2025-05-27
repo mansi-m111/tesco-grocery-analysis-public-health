@@ -1,32 +1,3 @@
-# Tesco Grocery Purchasing & Public Health Analysis
-
-This project analyses over 420 million Tesco Clubcard grocery transactions from London in 2015 to investigate how purchasing patterns relate to income, age, gender, and health outcomes. It combines retail and public datasets to uncover insights useful for public health policy, urban planning, and social research.
-
-## 📊 Objectives
-- Explore how gender and age demographics influence grocery choices
-- Examine links between nutrient patterns and obesity-related hospitalisations
-- Identify income-related trends in food purchasing behaviour
-
-## 🧰 Tools & Technologies
-- Python (pandas, seaborn, numpy)
-- Tableau (for data storytelling)
-- Jupyter Notebooks
-- Public datasets: Tesco Grocery 1.0, GDHI from ONS, Obesity Statistics from NHS
-
-## 📂 Project Structure
-- `notebooks/`: Main Jupyter notebook for exploration and analysis
-- `data/`: Contains `README.md` with instructions to download source datasets
-- `outputs/`: Visualisations, results, and summary reports
-
-## 📈 Key Insights
-- Male-dominated boroughs purchase more grains and energy-dense foods
-- Higher fibre intake links to lower hospitalisation rates, supporting public health advice
-- Higher-income areas prefer premium foods (e.g., bottled water, fish, poultry), while dairy and fruit consumption patterns differ across income levels
-
-## 🏛️ Relevance to Public Good
-This project demonstrates how data science can inform **equity-driven food policy**, public health interventions, and socio-economic research. It aligns with the mission of using data for social impact.
-
-
 # 🛒 Tesco Grocery Analysis: Exploring Public Health & Income Patterns Through Retail Data
 
 This project investigates grocery purchasing patterns across London using the **Tesco Grocery 1.0 dataset**, in combination with public health and income data. The goal is to explore how **demographics and income levels influence food choices**, and to uncover potential links to **obesity-related hospitalisation trends**. This work showcases how **data science can inform social policy and public health strategy** through real-world, large-scale data analysis.
