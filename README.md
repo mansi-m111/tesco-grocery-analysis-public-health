@@ -83,8 +83,6 @@ This case study was completed as part of the **Applied Data Science MSc module**
 
 ## 📎 Supporting Materials
 
-Additional resources that demonstrate communication and documentation best practices:
-
 - 📄 [Executive Summary (PDF)](docs/CM50266_TescoDataAnalysis.pdf): Concise summary of objectives, insights, and conclusions.
 - 🎤 [Presentation Slides (PDF)](docs/CM50266_Presentation.pdf): Stakeholder-facing presentation outlining key findings and public health implications.
 
