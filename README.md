@@ -1,7 +1,7 @@
 # 🛒 Tesco Grocery Analysis: Exploring Public Health & Income Patterns Through Retail Data
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 
-This project investigates grocery purchasing patterns across London using the **Tesco Grocery 1.0 dataset**, in combination with public health and income data. The goal is to explore how **demographics and income levels influence food choices**, and to uncover potential links to **obesity-related hospitalisation trends**. This work showcases how **data science can inform social policy and public health strategy** through real-world, large-scale data analysis.
+This project investigates grocery purchasing patterns across London using the **Tesco Grocery dataset**, in combination with public health and income data. The goal is to explore how **demographics and income levels influence food choices**, and to uncover potential links to **obesity-related hospitalisation trends**. This work showcases how **data science can inform social policy and public health strategy** through real-world, large-scale data analysis.
 
 ---
 
